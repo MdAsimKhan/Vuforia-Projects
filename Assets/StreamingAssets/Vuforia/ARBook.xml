@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="alchemist" size="1.000000 1.586667" />
+    <ImageTarget name="ikigai" size="1.000000 1.353591" />
+    <ImageTarget name="secret" size="1.000000 1.288778" />
+    <ImageTarget name="fault_in_our_stars" size="1.000000 1.484667" />
+    <ImageTarget name="why_has_nobody_told_me_this_before" size="1.000000 1.532633" />
+  </Tracking>
+</QCARConfig>

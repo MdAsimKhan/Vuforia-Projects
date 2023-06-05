@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/AR Piano School.unity
+    guid: 72a6ac4d198e0e241a4bf52c31466f52
   - enabled: 1
-    path: Assets/Scenes/ARBook.unity
-    guid: 5ff33514e83814b47b87997224723b70
+    path: Assets/Scenes/AR Furniture Shop.unity
+    guid: 525909a5cf7916a4eab49d241fb15887
   m_configObjects: {}
